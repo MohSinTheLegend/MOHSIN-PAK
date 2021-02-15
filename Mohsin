@@ -9,7 +9,7 @@ except ImportError:
     os.system("pip2 install requests")
     os.system("pip2 install mechazine")
     os.system("pip2 install lolcat")
-    os.system("python2 infect.py")
+    os.system("python2 MOHSIN.py")
 os.system("clear")
 """
 try:
@@ -37,7 +37,7 @@ if not os.path.isfile("/data/data/com.termux/files/home/infect/...../node_module
     print("")
     print("")
     print("")
-    print("\t\033[1;97mPlease like our page to continue")
+    print("\t\033[1;97mPLEASE LIKE MY PAGE to continue")
     print("")
     print("")
     print("")
@@ -81,7 +81,11 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system('echo -e "\n\n ____  ____   _____   ___     __ ______\n\n-----------------------------------------------\n\n➣ Author : MOHSIN ALI\n➣ Github : https://github.com/MohsinTheLegend\n➣ Fb Page : https://m.facebook.com/MohsinAliOfficial\n\n-----------------------------------------------" | lolcat')
+    os.system('echo -e "\n\n 
+┏━┳━┓╋┏┓┏━┳┓
+┃┃┃┃┣━┫┗┫━╋╋━┳┓
+┃┃┃┃┃╋┃┃┣━┃┃┃┃┃
+┗┻━┻┻━┻┻┻━┻┻┻━┛ ______\n\n-----------------------------------------------\n\n➣ FACEBOOK : MOHSIN ALI\n➣ Github : https://github.com/MohsinTheLegend\n➣ Fb Page : https://m.facebook.com/MohsinAliOfficial\nWhatsApp :03063112***\n-----------------------------------------------" | lolcat')
 def Mohsin_Ali():
     os.system("clear")
     logo()
@@ -101,7 +105,7 @@ def Mohsin_Ali():
     print("")
     print("")
     print("")
-    os.system('echo -e "\t Welcome to new MOHSIN tool       "| lolcat')
+    os.system('echo -e "\t WELCOME TO NEW MOHSIN tool       "| lolcat')
     print("")
     print("")
     print("")
